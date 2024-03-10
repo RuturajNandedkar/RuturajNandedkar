@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RuturajNandedkar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Intenship 
+- ✨ I’m looking to collaborate on Intenship 
 - ⚡ Fun fact: I love Coding
 
 <!---
