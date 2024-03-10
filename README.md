@@ -2,16 +2,16 @@
 <h3 align="center">A passionate Coder from India</h3>
 
 - 🌱 I’m currently learning:
-- **DSA**
+ **DSA**
 
 - 👯 I’m looking to collaborate on:
--  **Intenship**
+ **Intenship**
 
 - 🤝 I’m looking for help with:
--  **coding**
+ **coding**
 
 - ⚡ Fun fact:
--  **I Love Coding**
+ **I Love Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
