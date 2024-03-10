@@ -2,8 +2,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Intenship 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love Coding
 
 <!---
