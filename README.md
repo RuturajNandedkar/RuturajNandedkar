@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA,Web Dev**
 
-- 👯 I’m looking to collaborate on **Intenship**
+- 👯 I’m looking to collaborate on **Internship**
 
 - 🤝 I’m looking for help with **coding**
 
