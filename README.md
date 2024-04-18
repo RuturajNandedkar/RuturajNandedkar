@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Nandedkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruturajnandedkar&label=Profile%20views&color=0e75b6&style=flat" alt="ruturajnandedkar" /> </p>
 
@@ -20,6 +20,7 @@
 <a href="https://instagram.com/ruturaj_nandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruturaj_nandedkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ruturajnandedkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ruturajnandedkar151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruturajnandedkar151" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ruturajnandedkar" height="30" width="40" /></a>
 <a href="https://discord.gg/ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ruturajnandedkar" height="30" width="40" /></a>
 </p>
 
