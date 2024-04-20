@@ -18,7 +18,7 @@
 <a href="https://twitter.com/@ruturaj2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ruturaj2004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruturajnandedkar" height="30" width="40" /></a>
 <a href="https://instagram.com/ruturaj_nandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruturaj_nandedkar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ruturajnandedkar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruturajnandedkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ruturajnandedkar151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruturajnandedkar151" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ruturajnandedkar" height="30" width="40" /></a>
 <a href="https://discord.gg/ruturajnandedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ruturajnandedkar" height="30" width="40" /></a>
@@ -32,5 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruturajnandedkar&show_icons=true&locale=en" alt="ruturajnandedkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruturajnandedkar&" alt="ruturajnandedkar" /></p>
-
 
