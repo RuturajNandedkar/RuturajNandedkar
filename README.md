@@ -178,20 +178,9 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=RuturajNandedkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajNandedkar&theme=radical&hide_border=true&background=0d0d0d&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuturajNandedkar&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
-
-</div>
-
-<br/>
-
-## ─── GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RuturajNandedkar&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=RuturajNandedkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="32%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajNandedkar&theme=radical&hide_border=true&background=0d0d0d&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="32%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuturajNandedkar&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="32%"/>
 
 </div>
 
