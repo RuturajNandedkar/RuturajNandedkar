@@ -91,8 +91,7 @@ maintainable code.
 
 ## ─── Featured Projects
 
-<details>
-<summary><b>🔮 AI Internship Recommendation Engine</b></summary>
+### 🔮 AI Internship Recommendation Engine
 <br/>
 
 AI-powered internship discovery platform that matches students to opportunities based on their skills and interests across 5+ domains.
@@ -109,8 +108,6 @@ AI-powered internship discovery platform that matches students to opportunities 
 Designed and deployed a fully responsive frontend, then layered in an AI recommendation engine that
 personalizes internship listings based on user-inputted skills — turning a static listing page into a
 targeted discovery tool.
-
-</details>
 
 <br/>
 
