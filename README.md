@@ -103,7 +103,7 @@ AI-powered internship discovery platform that matches students to opportunities 
 | **Performance** | Fully responsive, instant client-side matching |
 | **Security** | Static hosting, no sensitive data handling |
 | **Impact** | Significantly improved listing relevance via AI personalization layer |
-| **Repository** | [View on GitHub](https://github.com/RuturajNandedkar/Al-Internship-Recommendation-Engine) · [Live Demo](https://ai-internship-recommendation-engine.vercel.app/) |
+| **Repository** | [View on GitHub](https://github.com/RuturajNandedkar/Al-Internship-Recommendation-Engine) · [Live Demo](https://your-live-demo-url.vercel.app) |
 
 Designed and deployed a fully responsive frontend, then layered in an AI recommendation engine that
 personalizes internship listings based on user-inputted skills — turning a static listing page into a
@@ -178,10 +178,10 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RuturajNandedkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=RuturajNandedkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajNandedkar&theme=radical&hide_border=true&background=0d0d0d&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuturajNandedkar&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuturajNandedkar&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
 
 </div>
 
