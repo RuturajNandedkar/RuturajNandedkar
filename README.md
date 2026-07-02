@@ -103,7 +103,7 @@ AI-powered internship discovery platform that matches students to opportunities 
 | **Performance** | Fully responsive, instant client-side matching |
 | **Security** | Static hosting, no sensitive data handling |
 | **Impact** | Significantly improved listing relevance via AI personalization layer |
-| **Repository** | [View on GitHub](https://github.com/RuturajNandedkar/Al-Internship-Recommendation-Engine) · [Live Demo]((https://ai-internship-recommendation-engine.vercel.app/)) |
+| **Repository** | [View on GitHub](https://github.com/RuturajNandedkar/Al-Internship-Recommendation-Engine) · [Live Demo](https://ai-internship-recommendation-engine.vercel.app/) |
 
 Designed and deployed a fully responsive frontend, then layered in an AI recommendation engine that
 personalizes internship listings based on user-inputted skills — turning a static listing page into a
