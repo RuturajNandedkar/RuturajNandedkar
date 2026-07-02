@@ -12,15 +12,14 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruturajnandedkar)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruturajnandedkar151@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuturajNandedkar)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=7C3AED&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=A78BFA&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=RuturajNandedkar&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/RuturajNandedkar?style=for-the-badge&color=7C3AED&labelColor=1a1a1a)
 
 </div>
 
@@ -105,7 +104,7 @@ AI-powered internship discovery platform that matches students to opportunities 
 | **Performance** | Fully responsive, instant client-side matching |
 | **Security** | Static hosting, no sensitive data handling |
 | **Impact** | Significantly improved listing relevance via AI personalization layer |
-| **Repository** | [View on GitHub](https://github.com/your-username/ai-internship-engine) · [Live Demo](https://your-live-demo-url.vercel.app) |
+| **Repository** | [View on GitHub](https://github.com/RuturajNandedkar/Al-Internship-Recommendation-Engine) · [Live Demo](https://your-live-demo-url.vercel.app) |
 
 Designed and deployed a fully responsive frontend, then layered in an AI recommendation engine that
 personalizes internship listings based on user-inputted skills — turning a static listing page into a
@@ -171,10 +170,10 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 ## ─── Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=7C3AED)](https://hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=6D28D9)](https://codechef.com/users/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/u/ruturajnandedkar/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6)](https://www.geeksforgeeks.org/profile/ruturajnandedkar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=7C3AED)](https://www.hackerrank.com/profile/ruturajnandedkar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=6D28D9)](https://codeforces.com/profile/ruturaj11)
 
 <br/>
 
@@ -182,10 +181,10 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0d0d0d&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RuturajNandedkar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajNandedkar&theme=radical&hide_border=true&background=0d0d0d&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuturajNandedkar&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
 
 </div>
 
@@ -195,7 +194,7 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RuturajNandedkar&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 
 </div>
 
@@ -205,7 +204,7 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=0d0d0d&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RuturajNandedkar&theme=react-dark&bg_color=0d0d0d&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
 
 </div>
 
@@ -215,7 +214,7 @@ MySQL with JWT-based authentication for secure, role-based access control.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/RuturajNandedkar/RuturajNandedkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -241,8 +240,8 @@ open_to:
 ## ─── Connect
 
 [![Gmail](https://img.shields.io/badge/-ruturajnandedkar151%40gmail.com-5B21B6?style=flat-square&logo=gmail&logoColor=white)](mailto:ruturajnandedkar151@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruturajnandedkar)
+[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/RuturajNandedkar)
 [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
 
 <br/>
