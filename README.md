@@ -111,6 +111,23 @@ targeted discovery tool.
 
 <br/>
 
+### 💻 Real-Time Collaborative Code Review Tool
+<br/>
+
+Real-time collaborative code review platform that enables multiple developers to review, discuss, and manage code sessions simultaneously with secure authentication and live synchronization.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, Socket.IO, MongoDB, JWT, Redis, BullMQ, Docker |
+| **Scale** | Multi-user collaborative review sessions with real-time synchronization |
+| **Performance** | Low-latency WebSocket communication, optimized state management |
+| **Security** | JWT authentication, protected routes, secure session management |
+| **Impact** | Streamlined collaborative code reviews through live editing, discussions, and session management |
+| **Repository** | [View on GitHub](https://github.com/RuturajNandedkar/Real-Time-Collaborative-Code-Review-Tool) · [Live Demo](https://real-time-collaborative-code-review.vercel.app/login) |
+
+Designed and developed a full-stack collaborative code review platform featuring real-time communication with Socket.IO, secure JWT-based authentication, session management, and live code collaboration. Built a scalable architecture using Redis and BullMQ for background processing, enabling developers to conduct efficient, synchronized code reviews from anywhere.
+
+<br/>
 ## ─── Experience
 
 **Full Stack Developer Intern** · Softcadd Technologies
